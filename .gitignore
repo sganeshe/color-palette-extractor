@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Python test cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# Output files
+palette_output.txt
+palette_output_image.png

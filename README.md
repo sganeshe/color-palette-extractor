@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Made With](https://img.shields.io/badge/Made%20With-Pillow%2C%20NumPy%2C%20scikit--learn-blue)

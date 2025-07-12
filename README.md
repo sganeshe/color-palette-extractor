@@ -26,7 +26,7 @@ Extract dominant colors from any image, generate a clear color palette image, an
   - `palette_output.txt` with extracted RGB values.
   - `palette_output_image.png` showing color swatches.
 
-![Palette Example](assets/palette_example.png)
+![Palette Example](assets/palette_example.jpg)
 
 ---
 
